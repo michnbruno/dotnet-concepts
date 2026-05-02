@@ -14,6 +14,7 @@ An interactive single-page reference application covering .NET concepts, pattern
 
 | Feature | Status | Notes |
 |---|---|---|
+| **Deployment** | ✅ Live | [michnbruno.github.io/dotnet-concepts](https://michnbruno.github.io/dotnet-concepts) |
 | .NET concept reference | ✔ implemented | Core language and framework concepts |
 | Interactive navigation | ✔ implemented | Single-page, client-side routing |
 | GitHub Pages deployment | ✔ implemented | Migrated from Azure Static Web Apps |
